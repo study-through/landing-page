@@ -4,7 +4,8 @@
   "description": "This is the coming soon landing page for Study Through Journals",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "surge public"
   },
   "repository": {
     "type": "git",
