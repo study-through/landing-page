@@ -1,0 +1,19 @@
+{
+  "name": "st-landing-page",
+  "version": "1.0.0",
+  "description": "This is the coming soon landing page for Study Through Journals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/study-through/landing-page.git"
+  },
+  "author": "Brian Hiatt <brian.hiatt41@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/study-through/landing-page/issues"
+  },
+  "homepage": "https://github.com/study-through/landing-page#readme"
+}
